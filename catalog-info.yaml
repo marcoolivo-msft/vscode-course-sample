@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage
+  description: backstage.io
+  annotations:
+    github.com/project-slug: 'marcoolivo-msft/vscode-course-sample'
+    # Add below annotation for a custom devcontainer configuration with
+    # relative path of devcontainer.json file from root of the repository
+    github.com/devcontainer-path: .devcontainer/devcontainer.json
+spec:
+  type: website
+  lifecycle: production
+  owner: user:guest
