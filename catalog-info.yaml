@@ -8,6 +8,7 @@ metadata:
     # Add below annotation for a custom devcontainer configuration with
     # relative path of devcontainer.json file from root of the repository
     github.com/devcontainer-path: .devcontainer/devcontainer.json
+    azure.com/tag-selector: backstage/backstage
 spec:
   type: website
   lifecycle: production
