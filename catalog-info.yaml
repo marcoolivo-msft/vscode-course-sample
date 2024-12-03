@@ -11,6 +11,7 @@ metadata:
     backstage.io/github-actions-id: marcoolivo-msft/vscode-course-sample
     azure.com/tag-selector: backstage/backstage
     backstage.io/techdocs-ref: dir:.
+    backstage.io/github-actions-logs-url-template: 'https://github.com/marcoolivo-msft/vscode-course-sample/actions/runs/${{ runId }}'
 spec:
   type: website
   lifecycle: production
