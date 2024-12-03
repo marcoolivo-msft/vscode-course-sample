@@ -9,7 +9,7 @@ metadata:
     # relative path of devcontainer.json file from root of the repository
     github.com/devcontainer-path: .devcontainer/devcontainer.json
     azure.com/tag-selector: backstage/backstage
-    backstage.io/techdocs-ref: https://github.com/marcoolivo-msft/vscode-course-sample/blob/main/README.md
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: production
