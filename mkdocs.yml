@@ -1,6 +1,6 @@
 site_name: 'Example Documentation'
 repo_url: https://github.com/marcoolivo-msft/vscode-course-sample
-edit_uri: edit/master/README.md
+edit_uri: edit/master/docs/README.md
 
 nav:
   - Home: README.md
