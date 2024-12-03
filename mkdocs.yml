@@ -5,7 +5,7 @@ edit_uri: edit/master/docs/
 nav:
   - Home: index.md
   - Subpage: SECURITY.md
-  - Extensions: README.md
+  - Extensions: ext.md
 
 plugins:
   - techdocs-core
